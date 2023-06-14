@@ -1,4 +1,4 @@
-<img align="center" alt="banner" width="100%" src="https://i.postimg.cc/ydwTLkX0/ezgif-com-optimize.gif">
+<img align="center" alt="banner" width="100%" src="ezgif.com-optimize.gif">
 <h1 align="center">Hi 👋, I'm Safius Sifat</h1>
 <h3 align="center">A passionate flutter and spring boot developer from Bangladesh</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
