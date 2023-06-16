@@ -35,6 +35,6 @@ I'm Sifat, a **Flutter** developer and 1st year undergraduate Computer Science a
 <details>
   <summary>:zap: GitHub Stats</summary>
   
-| <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=safius-sifat&show_icons=true&locale=en&theme=city_lights" alt="safius-sifat" /></p> | <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=safius-sifat&theme=city_lights" alt="safius-sifat" /></p>
+| <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=safius-sifat&show_icons=true&locale=en&theme=city_lights" alt="safius-sifat" /></p> | <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=safius-sifat&theme=city_lights" alt="safius-sifat" /></p>
 | :---: | :---: |
 </details>
