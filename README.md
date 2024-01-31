@@ -11,7 +11,7 @@
 
 Hey there,
 
-I'm Sifat, a **Flutter** developer and 1st year undergraduate Computer Science and Engineering student based in Bangladesh, Who is passionate about building user-friendly, easy-to-use applications, that makes a difference to the lives of those around me. I like to explore new trends and learn new technologies. I'm Currently learning Java, Spring boot and looking to collaborate on Open-Source projects, with a goal to be involved in the Community. I'm also open to having a chat about **Anything Computer Science Related**.
+I'm Sifat, a **Flutter** developer and 2nd year undergraduate Computer Science and Engineering student based in Bangladesh, Who is passionate about building user-friendly, easy-to-use applications, that makes a difference to the lives of those around me. I like to explore new trends and learn new technologies. I'm Currently learning Java, Spring boot and looking to collaborate on Open-Source projects, with a goal to be involved in the Community. I'm also open to having a chat about **Anything Computer Science Related**.
 
 ## Current Stack
 
